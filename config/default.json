@@ -1,0 +1,11 @@
+{
+    "env": "default",
+    "db": {
+        "mysql": {
+            "user": "root",
+            "pass": "",
+            "database": "hyper_app",
+            "host": "localhost"
+        }
+    }
+}

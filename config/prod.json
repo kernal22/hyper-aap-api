@@ -1,0 +1,11 @@
+{
+    "env": "production",
+    "db": {
+        "mysql": {
+            "user": "hyperapp",
+            "pass": "hyperapp",
+            "database": "hyper_app",
+            "host": ""
+        }
+    }
+}
